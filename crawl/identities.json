@@ -1,0 +1,295 @@
+{
+  "tool": "suite-builder",
+  "ledgerVersion": 1,
+  "entities": [
+    {
+      "id": "type:/",
+      "kind": "page-type",
+      "introducedAt": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e",
+      "cls": "HomePage",
+      "patterns": [
+        "/"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e"
+      }
+    },
+    {
+      "id": "type:/contact",
+      "kind": "page-type",
+      "introducedAt": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e",
+      "cls": "ContactPage",
+      "patterns": [
+        "/contact"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e"
+      }
+    },
+    {
+      "id": "type:/*/*",
+      "kind": "page-type",
+      "introducedAt": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e",
+      "cls": "N5500Page",
+      "patterns": [
+        "/*/*",
+        "/specialties/*/*"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e"
+      }
+    },
+    {
+      "id": "type:/*/*#2",
+      "kind": "page-type",
+      "introducedAt": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e",
+      "cls": "RelatedPage",
+      "patterns": [
+        "/*/*",
+        "/industry-news/*"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e"
+      }
+    },
+    {
+      "id": "type:/solutions/*",
+      "kind": "page-type",
+      "introducedAt": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e",
+      "cls": "SoftwareApplicationPage",
+      "patterns": [
+        "/solutions/*"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e"
+      }
+    },
+    {
+      "id": "type:/client-support",
+      "kind": "page-type",
+      "introducedAt": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e",
+      "cls": "ClientSupportPage",
+      "patterns": [
+        "/client-support"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e"
+      }
+    },
+    {
+      "id": "type:/specialties/ophthalmology",
+      "kind": "page-type",
+      "introducedAt": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e",
+      "cls": "SpecialtiesOphthalmologyPage",
+      "patterns": [
+        "/specialties/ophthalmology"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e"
+      }
+    },
+    {
+      "id": "type:/resource-center",
+      "kind": "page-type",
+      "introducedAt": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e",
+      "cls": "ResourceCenterPage",
+      "patterns": [
+        "/resource-center"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e"
+      }
+    },
+    {
+      "id": "type:/aesthetically-speaking",
+      "kind": "page-type",
+      "introducedAt": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e",
+      "cls": "AestheticallySpeakingPage",
+      "patterns": [
+        "/aesthetically-speaking"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e"
+      }
+    },
+    {
+      "id": "type:/case-studies/*",
+      "kind": "page-type",
+      "introducedAt": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e",
+      "cls": "ArticlePage",
+      "patterns": [
+        "/case-studies/*"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e"
+      }
+    },
+    {
+      "id": "type:/products/practice-management",
+      "kind": "page-type",
+      "introducedAt": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e",
+      "cls": "ProductsPracticeManagementPage",
+      "patterns": [
+        "/products/practice-management"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e"
+      }
+    },
+    {
+      "id": "type:/events",
+      "kind": "page-type",
+      "introducedAt": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e",
+      "cls": "EventsPage",
+      "patterns": [
+        "/events"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e"
+      }
+    },
+    {
+      "id": "type:/*",
+      "kind": "page-type",
+      "introducedAt": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e",
+      "cls": "FirstNamePage",
+      "patterns": [
+        "/*"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e"
+      }
+    },
+    {
+      "id": "type:/company/about",
+      "kind": "page-type",
+      "introducedAt": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e",
+      "cls": "CompanyAboutPage",
+      "patterns": [
+        "/company/about"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e"
+      }
+    },
+    {
+      "id": "type:/company/leadership/*",
+      "kind": "page-type",
+      "introducedAt": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e",
+      "cls": "ProfilePage",
+      "patterns": [
+        "/company/leadership/*",
+        "/author/*"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e"
+      }
+    },
+    {
+      "id": "type:/legal/*",
+      "kind": "page-type",
+      "introducedAt": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e",
+      "cls": "LegalPage",
+      "patterns": [
+        "/legal/*"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e"
+      }
+    },
+    {
+      "id": "type:/specialties/ophthalmology/crm-software",
+      "kind": "page-type",
+      "introducedAt": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e",
+      "cls": "SpecialtiesOphthalmologyCrmSoftwarePage",
+      "patterns": [
+        "/specialties/ophthalmology/crm-software"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e"
+      }
+    },
+    {
+      "id": "type:/developers-portal",
+      "kind": "page-type",
+      "introducedAt": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e",
+      "cls": "DevelopersPortalPage",
+      "patterns": [
+        "/developers-portal"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e"
+      }
+    },
+    {
+      "id": "type:/partnerships",
+      "kind": "page-type",
+      "introducedAt": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e",
+      "cls": "PartnershipsPage",
+      "patterns": [
+        "/partnerships"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e"
+      }
+    },
+    {
+      "id": "type:/company/careers",
+      "kind": "page-type",
+      "introducedAt": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e",
+      "cls": "CompanyCareersPage",
+      "patterns": [
+        "/company/careers"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e"
+      }
+    },
+    {
+      "id": "type:/lp/connected-growth-hub",
+      "kind": "page-type",
+      "introducedAt": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e",
+      "cls": "LpConnectedGrowthHubPage",
+      "patterns": [
+        "/lp/connected-growth-hub"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e"
+      }
+    },
+    {
+      "id": "type:/products/touchmd",
+      "kind": "page-type",
+      "introducedAt": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e",
+      "cls": "ProductsTouchmdPage",
+      "patterns": [
+        "/products/touchmd"
+      ],
+      "lifecycle": {
+        "state": "present",
+        "lastSeenIn": "c1c7eabba29810ef416e6d298c422e4c13e6e93ebbfe972e6c0317143940585e"
+      }
+    }
+  ]
+}

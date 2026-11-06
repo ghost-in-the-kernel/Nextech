@@ -1,0 +1,4739 @@
+{
+  "tool": "suite-builder",
+  "kind": "templates",
+  "version": 2,
+  "startUrl": "https://nextech.com/",
+  "origin": "https://www.nextech.com",
+  "pagesRead": 81,
+  "menu": [
+    {
+      "to": "https://www.nextech.com/client-support",
+      "href": "/client-support",
+      "text": "Client support",
+      "region": "header",
+      "seenOn": "https://www.nextech.com/",
+      "template": "client-support"
+    },
+    {
+      "to": "https://www.nextech.com/products/cora",
+      "href": "/products/cora",
+      "text": "Nextech Cora",
+      "seenOn": "https://www.nextech.com/",
+      "template": "n5500"
+    },
+    {
+      "to": "https://www.nextech.com/specialties/ophthalmology",
+      "href": "/specialties/ophthalmology",
+      "spellings": [
+        "https://www.nextech.com/specialties/ophthalmology"
+      ],
+      "text": "Ophthalmology",
+      "seenOn": "https://www.nextech.com/",
+      "template": "specialties-ophthalmology"
+    },
+    {
+      "to": "https://www.nextech.com/specialties/plastic-surgery",
+      "href": "/specialties/plastic-surgery",
+      "spellings": [
+        "https://www.nextech.com/specialties/plastic-surgery"
+      ],
+      "text": "Plastic Surgery",
+      "seenOn": "https://www.nextech.com/",
+      "template": "n5500"
+    },
+    {
+      "to": "https://www.nextech.com/specialties/dermatology",
+      "href": "/specialties/dermatology",
+      "spellings": [
+        "https://www.nextech.com/specialties/dermatology"
+      ],
+      "text": "Dermatology",
+      "seenOn": "https://www.nextech.com/",
+      "template": "n5500"
+    },
+    {
+      "to": "https://www.nextech.com/specialties/med-spa",
+      "href": "/specialties/med-spa",
+      "spellings": [
+        "https://www.nextech.com/specialties/med-spa"
+      ],
+      "text": "Med Spa",
+      "seenOn": "https://www.nextech.com/",
+      "template": "n5500"
+    },
+    {
+      "to": "https://www.nextech.com/specialties/orthopedic",
+      "href": "/specialties/orthopedic",
+      "text": "Orthopedics",
+      "seenOn": "https://www.nextech.com/",
+      "template": null
+    },
+    {
+      "to": "https://www.nextech.com/blog/healthcare-cybersecurity-challenges",
+      "href": "/blog/healthcare-cybersecurity-challenges",
+      "text": "How specialty practice owners can protect against cybersecurity risks Learn mor…",
+      "hidden": true,
+      "region": "header",
+      "trigger": {
+        "tag": "div",
+        "text": "Specialties"
+      },
+      "seenOn": "https://www.nextech.com/",
+      "template": "related"
+    },
+    {
+      "to": "https://www.nextech.com/blog/how-to-get-patient-referrals",
+      "href": "/blog/how-to-get-patient-referrals",
+      "text": "Playbook for increasing referrals at your specialty practice Learn more \u200b \u200b",
+      "hidden": true,
+      "region": "header",
+      "trigger": {
+        "tag": "div",
+        "text": "Specialties"
+      },
+      "seenOn": "https://www.nextech.com/",
+      "template": "related"
+    },
+    {
+      "to": "https://www.nextech.com/solutions/ai",
+      "href": "/solutions/ai",
+      "spellings": [
+        "https://www.nextech.com/solutions/ai"
+      ],
+      "text": "AI",
+      "seenOn": "https://www.nextech.com/",
+      "template": "software-application"
+    },
+    {
+      "to": "https://www.nextech.com/solutions/patient-experience",
+      "href": "/solutions/patient-experience",
+      "text": "Patient Experience",
+      "seenOn": "https://www.nextech.com/",
+      "template": "software-application"
+    },
+    {
+      "to": "https://www.nextech.com/solutions/practice-management",
+      "href": "/solutions/practice-management",
+      "spellings": [
+        "https://www.nextech.com/solutions/practice-management"
+      ],
+      "text": "Practice Managment",
+      "seenOn": "https://www.nextech.com/",
+      "template": "software-application"
+    },
+    {
+      "to": "https://www.nextech.com/solutions/payment-solutions",
+      "href": "/solutions/payment-solutions",
+      "text": "Patient Payments",
+      "seenOn": "https://www.nextech.com/",
+      "template": null
+    },
+    {
+      "to": "https://www.nextech.com/solutions/clinical-workflows",
+      "href": "/solutions/clinical-workflows",
+      "text": "Clinical Workflows",
+      "seenOn": "https://www.nextech.com/",
+      "template": null
+    },
+    {
+      "to": "https://www.nextech.com/solutions/advanced-analytics",
+      "href": "/solutions/advanced-analytics",
+      "spellings": [
+        "https://www.nextech.com/solutions/advanced-analytics"
+      ],
+      "text": "Data & Insights",
+      "seenOn": "https://www.nextech.com/",
+      "template": "software-application"
+    },
+    {
+      "to": "https://www.nextech.com/solutions/rcm",
+      "href": "/solutions/rcm",
+      "spellings": [
+        "https://www.nextech.com/solutions/rcm"
+      ],
+      "text": "Revenue Cycle Management",
+      "seenOn": "https://www.nextech.com/",
+      "template": null
+    },
+    {
+      "to": "https://www.nextech.com/products/practice-management",
+      "href": "/products/practice-management",
+      "spellings": [
+        "https://www.nextech.com/products/practice-management"
+      ],
+      "text": "Practice Management",
+      "seenOn": "https://www.nextech.com/",
+      "template": "products-practice-management"
+    },
+    {
+      "to": "https://www.nextech.com/products/ehr",
+      "href": "/products/ehr",
+      "text": "Nextech EHR",
+      "seenOn": "https://www.nextech.com/",
+      "template": "n5500"
+    },
+    {
+      "to": "https://www.nextech.com/products/payments",
+      "href": "/products/payments",
+      "spellings": [
+        "https://www.nextech.com/products/payments"
+      ],
+      "text": "Nextech Payments",
+      "seenOn": "https://www.nextech.com/",
+      "template": null
+    },
+    {
+      "to": "https://www.nextech.com/products/crm",
+      "href": "/products/crm",
+      "spellings": [
+        "https://www.nextech.com/products/crm"
+      ],
+      "text": "Nextech CRM",
+      "seenOn": "https://www.nextech.com/",
+      "template": null
+    },
+    {
+      "to": "https://www.nextech.com/products/touchmd",
+      "href": "/products/touchmd",
+      "text": "TouchMD",
+      "seenOn": "https://www.nextech.com/",
+      "template": "products-touchmd"
+    },
+    {
+      "to": "https://www.nextech.com/products/rcm-services",
+      "href": "/products/rcm-services",
+      "spellings": [
+        "https://www.nextech.com/products/rcm-services"
+      ],
+      "text": "Nextech RCM Services",
+      "seenOn": "https://www.nextech.com/",
+      "template": null
+    },
+    {
+      "to": "https://www.nextech.com/products/consulting",
+      "href": "/products/consulting",
+      "text": "Nextech Consulting",
+      "seenOn": "https://www.nextech.com/",
+      "template": "n5500"
+    },
+    {
+      "to": "https://www.nextech.com/blog/cloud-based-ehr",
+      "href": "/blog/cloud-based-ehr",
+      "text": "Cloud-based EHR: A guide to benefits, security, and ROI Learn more \u200b \u200b",
+      "hidden": true,
+      "region": "header",
+      "trigger": {
+        "tag": "div",
+        "text": "Products"
+      },
+      "seenOn": "https://www.nextech.com/",
+      "template": "related"
+    },
+    {
+      "to": "https://www.nextech.com/blog/ehr-or-pm-how-having-both-can-help-your-practices-bottom-line-nextech",
+      "href": "/blog/ehr-or-pm-how-having-both-can-help-your-practices-bottom-line-nextech",
+      "text": "EHR or PM: How having both can help your practice’s bottom line Learn more \u200b \u200b",
+      "hidden": true,
+      "region": "header",
+      "trigger": {
+        "tag": "div",
+        "text": "Products"
+      },
+      "seenOn": "https://www.nextech.com/",
+      "template": "related"
+    },
+    {
+      "to": "https://www.nextech.com/resource-center?type=Case+Study",
+      "href": "/resource-center?type=Case+Study#all-resources",
+      "text": "Customer Stories",
+      "seenOn": "https://www.nextech.com/",
+      "template": null
+    },
+    {
+      "to": "https://www.nextech.com/resource-center",
+      "href": "/resource-center",
+      "text": "Resource Center",
+      "seenOn": "https://www.nextech.com/",
+      "template": "resource-center"
+    },
+    {
+      "to": "https://www.nextech.com/aesthetically-speaking",
+      "href": "/aesthetically-speaking",
+      "text": "Aesthetically Speaking",
+      "newTab": true,
+      "seenOn": "https://www.nextech.com/",
+      "template": "aesthetically-speaking"
+    },
+    {
+      "to": "https://www.nextech.com/blog/mips",
+      "href": "/blog/mips",
+      "text": "What your practice can do to receive high MIPS scores Learn more \u200b \u200b",
+      "hidden": true,
+      "region": "header",
+      "trigger": {
+        "tag": "div",
+        "text": "Resources"
+      },
+      "seenOn": "https://www.nextech.com/",
+      "template": "related"
+    },
+    {
+      "to": "https://www.nextech.com/blog/mips-value-pathways",
+      "href": "/blog/mips-value-pathways",
+      "text": "MIPS Value Pathways: Everything your practice needs to know Learn more \u200b \u200b",
+      "hidden": true,
+      "region": "header",
+      "trigger": {
+        "tag": "div",
+        "text": "Resources"
+      },
+      "seenOn": "https://www.nextech.com/",
+      "template": "related"
+    },
+    {
+      "to": "https://www.nextech.com/company/about",
+      "href": "/company/about",
+      "text": "About us",
+      "seenOn": "https://www.nextech.com/",
+      "template": "company-about"
+    },
+    {
+      "to": "https://www.nextech.com/company/careers",
+      "href": "/company/careers",
+      "text": "Careers",
+      "seenOn": "https://www.nextech.com/",
+      "template": "company-careers"
+    },
+    {
+      "to": "https://www.nextech.com/events",
+      "href": "/events",
+      "text": "Events",
+      "seenOn": "https://www.nextech.com/",
+      "template": "events"
+    },
+    {
+      "to": "https://www.nextech.com/request-demo",
+      "href": "/request-demo",
+      "text": "Schedule a demo",
+      "region": "header",
+      "seenOn": "https://www.nextech.com/",
+      "template": "first-name"
+    },
+    {
+      "to": "https://www.nextech.com/developers-portal",
+      "href": "/developers-portal",
+      "text": "Developers Portal",
+      "seenOn": "https://www.nextech.com/",
+      "template": "developers-portal"
+    },
+    {
+      "to": "https://www.nextech.com/partnerships",
+      "href": "/partnerships",
+      "text": "Corporate Partnerships",
+      "seenOn": "https://www.nextech.com/",
+      "template": "partnerships"
+    },
+    {
+      "to": "https://www.nextech.com/contact",
+      "href": "/contact",
+      "text": "Contact us",
+      "seenOn": "https://www.nextech.com/",
+      "template": "contact"
+    },
+    {
+      "to": "https://www.nextech.com/legal/privacy-policy",
+      "href": "/legal/privacy-policy",
+      "spellings": [
+        "https://www.nextech.com/legal/privacy-policy"
+      ],
+      "text": "Privacy Policy",
+      "seenOn": "https://www.nextech.com/",
+      "template": "legal"
+    },
+    {
+      "to": "https://www.nextech.com/legal/ccpa",
+      "href": "/legal/ccpa",
+      "text": "California Consumer Privacy Act Disclosures",
+      "seenOn": "https://www.nextech.com/",
+      "template": "legal"
+    },
+    {
+      "to": "https://www.nextech.com/",
+      "href": "/",
+      "text": "Nextech",
+      "region": "header",
+      "seenOn": "https://www.nextech.com/contact",
+      "template": "home"
+    }
+  ],
+  "templates": [
+    {
+      "id": "home",
+      "name": "HomePage",
+      "urlPatterns": [
+        "/"
+      ],
+      "pages": [
+        "https://www.nextech.com/"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "EHR Software & Practice Management for Specialty Physicians | Nextech",
+      "sharedHeadings": [
+        "Transform your specialty practice",
+        "Recognized as a top specialty medical practice solution provider",
+        "Solutions tailored to your specialty",
+        "Empowering people,enhancing care",
+        "Clinicians",
+        "Admin team",
+        "Patients",
+        "AI engineered for specialty care",
+        "Documents as you talk",
+        "Understands the chart",
+        "Built for eyecare",
+        "Privacy by design",
+        "See the difference specialty-focused technology makes.",
+        "Intelligent, connected technology across the care journey",
+        "Clinical workflows",
+        "Operational workflows",
+        "Patient experience",
+        "Revenue cycle management",
+        "Financial payment solutions",
+        "Data & insights",
+        "More than a technology provider. Your partner in practice growth.",
+        "Insights & tips for your practice",
+        "Ready to transform your practice?"
+      ],
+      "inMenu": true,
+      "linksTo": [
+        {
+          "template": "article",
+          "count": 2,
+          "example": {
+            "from": "https://www.nextech.com/",
+            "to": "https://www.nextech.com/case-studies/north-texas-plastic-surgery",
+            "href": "/case-studies/north-texas-plastic-surgery",
+            "text": "Read case study"
+          }
+        },
+        {
+          "template": "first-name",
+          "count": 1,
+          "example": {
+            "from": "https://www.nextech.com/",
+            "to": "https://www.nextech.com/request-info",
+            "href": "https://www.nextech.com/request-info",
+            "text": "Request info"
+          }
+        }
+      ],
+      "controls": [
+        {
+          "kind": "expander",
+          "words": [
+            "Clinicians"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Clinicians']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Admin team"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Admin team']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Patients"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Patients']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/"
+        }
+      ],
+      "why": {
+        "rule": "start-page",
+        "says": "the start page: always a page type of its own, since every test starts there"
+      }
+    },
+    {
+      "id": "contact",
+      "name": "ContactPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://www.nextech.com/contact"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "Request Information | General Inquries | Contact | Nextech",
+      "sharedHeadings": [
+        "Get in touch",
+        "First Name*",
+        "Last Name*",
+        "Practice Name*",
+        "Work Email*",
+        "Phone number*",
+        "Specialty*",
+        "State/Region*",
+        "Notes"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "controls": [
+        {
+          "kind": "text field",
+          "words": [
+            "First Name*",
+            "firstname"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='firstname']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/contact"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Last Name*",
+            "lastname"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='lastname']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/contact"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Practice Name*",
+            "company"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='company']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/contact"
+        },
+        {
+          "kind": "tel field",
+          "words": [
+            "Phone number*",
+            "phone"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='phone']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/contact"
+        },
+        {
+          "kind": "dropdown",
+          "words": [
+            "Specialty*",
+            "specialty"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "options": [
+            "Dermatology",
+            "Ophthalmology",
+            "Plastic Surgery",
+            "Orthopedics",
+            "Other"
+          ],
+          "noValidate": true,
+          "xpath": "//select[@name='specialty']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/contact"
+        },
+        {
+          "kind": "dropdown",
+          "words": [
+            "State/Region*",
+            "state"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "options": [
+            "Alabama",
+            "Alaska",
+            "Arizona",
+            "Arkansas",
+            "California"
+          ],
+          "noValidate": true,
+          "xpath": "//select[@name='state']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/contact"
+        },
+        {
+          "kind": "text area",
+          "words": [
+            "Notes",
+            "form_message"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//textarea[@name='form_message']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/contact"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Contact Nextech"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//form[@data-test-id='hsForm_29c026c4-690c-4e0e-b812-9adca0158a87']/div/div/input",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/contact"
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /developers-portal, shares 84% of its layout and 9% of its headings)"
+      }
+    },
+    {
+      "id": "n5500",
+      "name": "N5500Page",
+      "urlPatterns": [
+        "/*/*",
+        "/specialties/*/*"
+      ],
+      "pages": [
+        "https://www.nextech.com/products/consulting",
+        "https://www.nextech.com/products/cora",
+        "https://www.nextech.com/specialties/plastic-surgery",
+        "https://www.nextech.com/specialties/dermatology",
+        "https://www.nextech.com/specialties/med-spa",
+        "https://www.nextech.com/specialties/ophthalmology/ehr-software",
+        "https://www.nextech.com/specialties/dermatology/ehr-software",
+        "https://www.nextech.com/specialties/plastic-surgery/ehr-software",
+        "https://www.nextech.com/specialties/med-spa/ehr-software",
+        "https://www.nextech.com/products/ehr"
+      ],
+      "repeated": true,
+      "knownUrls": 11,
+      "titlePattern": null,
+      "sharedHeadings": [
+        "Specialty practices nationwide love Nextech",
+        "5,500+",
+        "16K+",
+        "60K+",
+        "More than a technology provider. Your partner in practice growth.",
+        "Insights & tips for your practice",
+        "FAQ"
+      ],
+      "inMenu": true,
+      "linksTo": [
+        {
+          "template": "related",
+          "count": 12,
+          "example": {
+            "from": "https://www.nextech.com/products/consulting",
+            "to": "https://www.nextech.com/blog/how-to-prevent-healthcare-data-breaches",
+            "href": "/blog/how-to-prevent-healthcare-data-breaches",
+            "text": "Blog"
+          }
+        },
+        {
+          "template": "n5500",
+          "count": 5,
+          "example": {
+            "from": "https://www.nextech.com/specialties/plastic-surgery",
+            "to": "https://www.nextech.com/specialties/plastic-surgery/ehr-software",
+            "href": "/specialties/plastic-surgery/ehr-software",
+            "text": "Explore Plastic Surgery EHR Features"
+          }
+        }
+      ],
+      "controls": [
+        {
+          "kind": "expander",
+          "words": [
+            "Practice operations & workflow"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Practice operations & workflow']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/consulting"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Clinical efficiency & documentation"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Clinical efficiency & documentation']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/consulting"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "MIPS & regulatory compliance"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='MIPS & regulatory compliance']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/consulting"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Revenue cycle & financial performance"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Revenue cycle & financial performance']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/consulting"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Ongoing advisory & strategic reviews"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Ongoing advisory & strategic reviews']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/consulting"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "What areas of the practice can Nextech consultants help o..."
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'What areas of the practice can Nextech')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/consulting"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Are consulting services customized to each practice?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Are consulting services customized to')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/consulting"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Does Nextech offer ongoing consulting and training support?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Does Nextech offer ongoing consulting')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/consulting"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Can Nextech help with MIPS and regulatory compliance?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Can Nextech help with MIPS and')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/consulting"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Documentation in seconds"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Documentation in seconds']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/cora"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Two-way chart intelligence"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Two-way chart intelligence']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/cora"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Ophthalmology-specific AI"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Ophthalmology-specific AI']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/cora"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Practice-aware customization"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Practice-aware customization']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/cora"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Natural voice-driven workflows"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Natural voice-driven workflows']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/cora"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Keep the focus on patients"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Keep the focus on patients']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/cora"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Seamless integration with Nextech’s EHR"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Seamless integration with Nextech’s EHR']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/cora"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Privacy-first AI architecture"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Privacy-first AI architecture']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/cora"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Open Dialog"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Open Dialog']",
+          "stability": "Strong",
+          "pages": 6,
+          "seenOn": "https://www.nextech.com/products/cora"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "First Name*",
+            "firstname"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='firstname']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/cora"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Last Name*",
+            "lastname"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='lastname']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/cora"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Practice Name*",
+            "company"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='company']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/cora"
+        },
+        {
+          "kind": "tel field",
+          "words": [
+            "Phone Number*",
+            "phone"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='phone']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/cora"
+        },
+        {
+          "kind": "dropdown",
+          "words": [
+            "specialty"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "options": [
+            "Dermatology",
+            "Ophthalmology",
+            "Plastic Surgery",
+            "Orthopedics",
+            "Other"
+          ],
+          "noValidate": true,
+          "xpath": "//select[@name='specialty']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/cora"
+        },
+        {
+          "kind": "dropdown",
+          "words": [
+            "state"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "options": [
+            "Alabama",
+            "Alaska",
+            "Arizona",
+            "Arkansas",
+            "California"
+          ],
+          "noValidate": true,
+          "xpath": "//select[@name='state']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/cora"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Request Info"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//form[@data-test-id='hsForm_10d075c6-48f8-4d15-9316-3cf6f2bd2fda']/div/div/input",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/cora"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "What is an AI medical scribe?"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='What is an AI medical scribe?']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/cora"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "How is Cora Scribe different from other AI scribes?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'How is Cora Scribe different from other')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/cora"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Is patient data secure with Cora Scribe?"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Is patient data secure with Cora Scribe?']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/cora"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Can Cora Scribe adapt to our practice’s workflows?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Can Cora Scribe adapt to our practice’s')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/cora"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Can Cora Scribe handle multiple speakers and different la..."
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Can Cora Scribe handle multiple speakers')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/cora"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Why do plastic surgery practices need specialty-specific..."
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Why do plastic surgery practices need')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/plastic-surgery"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "How does Nextech help improve the patient experience?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'How does Nextech help improve the')]",
+          "stability": "OK",
+          "pages": 2,
+          "seenOn": "https://www.nextech.com/specialties/plastic-surgery"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Can Nextech support both surgical and aesthetic services?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Can Nextech support both surgical and')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/plastic-surgery"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "How does a connected platform help plastic surgery practi..."
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'How does a connected platform help')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/plastic-surgery"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Why do dermatology practices need specialty-specific tech..."
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Why do dermatology practices need')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/dermatology"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Can Nextech support both medical and cosmetic dermatology..."
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Can Nextech support both medical and')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/dermatology"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "How does a connected platform improve practice performance?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'How does a connected platform improve')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/dermatology"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Is Nextech’s ophthalmology software cloud-based?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Is Nextech’s ophthalmology software')]",
+          "stability": "OK",
+          "pages": 2,
+          "seenOn": "https://www.nextech.com/specialties/dermatology"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "What makes Nextech different from other med spa software?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'What makes Nextech different from other')]",
+          "stability": "OK",
+          "pages": 2,
+          "seenOn": "https://www.nextech.com/specialties/med-spa"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Can Nextech support growing med spas with multiple provid..."
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Can Nextech support growing med spas')]",
+          "stability": "OK",
+          "pages": 2,
+          "seenOn": "https://www.nextech.com/specialties/med-spa"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "How does Nextech help improve the client experience?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'How does Nextech help improve the client')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/med-spa"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Is Nextech designed specifically for aesthetic practices?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Is Nextech designed specifically for')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/med-spa"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Will Nextech help my med spa with healthcare regulations..."
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Will Nextech help my med spa with')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/med-spa"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Can Nextech scale as a practice grows?"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Can Nextech scale as a practice grows?']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/ophthalmology/ehr-software"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "How does Nextech reduce documentation burden for eyecare..."
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'How does Nextech reduce documentation')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/ophthalmology/ehr-software"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "How does Nextech handle quality reporting for EHR?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'How does Nextech handle quality')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/ophthalmology/ehr-software"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Can we securely share information with other providers us..."
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Can we securely share information with')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/ophthalmology/ehr-software"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Is Nextech’s EHR designed specifically for dermatology pr..."
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Is Nextech’s EHR designed specifically')]",
+          "stability": "OK",
+          "pages": 2,
+          "seenOn": "https://www.nextech.com/specialties/dermatology/ehr-software"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Can Nextech support multi-location and multi-provider pra..."
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Can Nextech support multi-location and')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/dermatology/ehr-software"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Does Nextech offer mobile access?"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Does Nextech offer mobile access?']",
+          "stability": "OK",
+          "pages": 2,
+          "seenOn": "https://www.nextech.com/specialties/dermatology/ehr-software"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Does Nextech integrate telemedicine and e-prescribing?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Does Nextech integrate telemedicine and')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/dermatology/ehr-software"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Is Nextech server- or cloud-based?"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Is Nextech server- or cloud-based?']",
+          "stability": "OK",
+          "pages": 2,
+          "seenOn": "https://www.nextech.com/specialties/dermatology/ehr-software"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Does Nextech support both surgical and aesthetic workflows?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Does Nextech support both surgical and')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/plastic-surgery/ehr-software"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Can providers customize templates and workflows?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Can providers customize templates and')]",
+          "stability": "OK",
+          "pages": 2,
+          "seenOn": "https://www.nextech.com/specialties/plastic-surgery/ehr-software"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Is Nextech’s technology HIPAA-compliant?"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Is Nextech’s technology HIPAA-compliant?']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/med-spa/ehr-software"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "What makes a specialty-specific EHR different from a gene..."
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'What makes a specialty-specific EHR')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/ehr"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Can Nextech’s EHR adapt to different provider preferences..."
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Can Nextech’s EHR adapt to different')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/ehr"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "How does Nextech support compliance and regulatory requir..."
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'How does Nextech support compliance and')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/ehr"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "How does Nextech improve the patient experience?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'How does Nextech improve the patient')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/ehr"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Can Nextech scale for enterprise or multi-location organi..."
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Can Nextech scale for enterprise or')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/ehr"
+        }
+      ],
+      "why": {
+        "rule": "family-by-address",
+        "says": "its 10 pages read look alike (layout 90% the same, headings 19%) and share the address pattern /*/*; joined by: the layouts agree, with some headings shared (36 comparisons); 9 comparisons held by no rule",
+        "joinedBy": [
+          {
+            "rule": "layout-and-some-headings",
+            "pairs": 36
+          }
+        ],
+        "apart": 9
+      }
+    },
+    {
+      "id": "related",
+      "name": "RelatedPage",
+      "urlPatterns": [
+        "/*/*",
+        "/industry-news/*"
+      ],
+      "pages": [
+        "https://www.nextech.com/blog/healthcare-cybersecurity-challenges",
+        "https://www.nextech.com/blog/how-to-get-patient-referrals",
+        "https://www.nextech.com/blog/cloud-based-ehr",
+        "https://www.nextech.com/press-releases/connected-innovation-and-specialty-specific-ai-take-center-stage-at-nextech-edge-2026",
+        "https://www.nextech.com/industry-news/nextech-launches-clinical-assistant-unlike-generic-bolt-on-scribes",
+        "https://www.nextech.com/press-releases/nextech-reduces-healthcares-payment-reconciliation-burden-with-updated-embedded-payment-processing-platform",
+        "https://www.nextech.com/industry-news/nextech-rolls-out-ai-scribe-built-for-specialty-physician-practices",
+        "https://www.nextech.com/press-releases/nextech-unveils-agentic-ai-capabilities-for-patient-experience-through-new-partnerships",
+        "https://www.nextech.com/industry-news/nextech-cio-ciso-shares-perspective-on-phishing-threats-in-healthcare-0",
+        "https://www.nextech.com/blog/ehr-or-pm-how-having-both-can-help-your-practices-bottom-line-nextech",
+        "https://www.nextech.com/blog/mips",
+        "https://www.nextech.com/blog/mips-value-pathways",
+        "https://www.nextech.com/blog/how-to-transition-from-paper-charting-to-ehr-in-6-steps-saving-your-practice-time-and-money",
+        "https://www.nextech.com/blog/ophthalmology-abbreviations",
+        "https://www.nextech.com/blog/7-social-media-strategies-for-aesthetic-practices-and-med-spas",
+        "https://www.nextech.com/blog/iv-therapy-laws-by-state",
+        "https://www.nextech.com/blog/ehr-vs-emr",
+        "https://www.nextech.com/blog/cost-of-not-switching-plastic-surgery-software",
+        "https://www.nextech.com/blog/stop-leading-with-price-in-financing-conversations",
+        "https://www.nextech.com/blog/healthcare-financial-management",
+        "https://www.nextech.com/blog/celebrating-career-journeys-marian-llamas",
+        "https://www.nextech.com/blog/ehr-for-small-practices",
+        "https://www.nextech.com/blog/med-spa-laws-by-state",
+        "https://www.nextech.com/blog/patient-engagement-in-healthcare",
+        "https://www.nextech.com/blog/cost-and-roi-of-ehrs",
+        "https://www.nextech.com/blog/survey-50-of-physicians-havent-heard-of-macra",
+        "https://www.nextech.com/blog/fresh-perspectives-nextech-celebrates-national-intern-day",
+        "https://www.nextech.com/blog/how-to-prevent-healthcare-data-breaches",
+        "https://www.nextech.com/blog/how-to-maximize-reimbursements-at-your-practice",
+        "https://www.nextech.com/blog/how-to-address-and-prevent-pa-burnout",
+        "https://www.nextech.com/blog/how-providers-safeguard-their-revenue-cycle",
+        "https://www.nextech.com/blog/benefits-of-chatbots-in-healthcare",
+        "https://www.nextech.com/blog/ophthalmology-cpt-codes",
+        "https://www.nextech.com/blog/net-vs-gross-collection-rates",
+        "https://www.nextech.com/blog/coding-telehealth-visits",
+        "https://www.nextech.com/blog/what-is-pecos"
+      ],
+      "repeated": true,
+      "knownUrls": 153,
+      "titlePattern": null,
+      "sharedHeadings": [
+        "Email*",
+        "Related resources",
+        "Related articles",
+        "Explore Our Current Openings"
+      ],
+      "inMenu": true,
+      "linksTo": [
+        {
+          "template": "related",
+          "count": 95,
+          "example": {
+            "from": "https://www.nextech.com/blog/healthcare-cybersecurity-challenges",
+            "to": "https://www.nextech.com/blog/how-to-prevent-healthcare-data-breaches",
+            "href": "https://www.nextech.com/blog/how-to-prevent-healthcare-data-breaches",
+            "text": "strengthen your security posture"
+          }
+        },
+        {
+          "template": "n5500",
+          "count": 36,
+          "example": {
+            "from": "https://www.nextech.com/blog/how-to-get-patient-referrals",
+            "to": "https://www.nextech.com/dermatology/ehr-pm-software",
+            "href": "https://www.nextech.com/dermatology/ehr-pm-software",
+            "text": "dermatologist"
+          }
+        },
+        {
+          "template": "profile",
+          "count": 22,
+          "example": {
+            "from": "https://www.nextech.com/blog/healthcare-cybersecurity-challenges",
+            "to": "https://www.nextech.com/author/david-slazyk",
+            "href": "/author/david-slazyk",
+            "text": "David Slazyk"
+          }
+        },
+        {
+          "template": "software-application",
+          "count": 2,
+          "example": {
+            "from": "https://www.nextech.com/blog/how-to-get-patient-referrals",
+            "to": "https://www.nextech.com/advanced-analytics",
+            "href": "https://www.nextech.com/advanced-analytics",
+            "text": "Pull baseline data from your EHR"
+          }
+        },
+        {
+          "template": "products-touchmd",
+          "count": 1,
+          "example": {
+            "from": "https://www.nextech.com/blog/patient-engagement-in-healthcare",
+            "to": "https://www.nextech.com/touchmd",
+            "href": "https://www.nextech.com/touchmd",
+            "text": "TouchMD"
+          }
+        }
+      ],
+      "controls": [
+        {
+          "kind": "button",
+          "words": [
+            "Subscribe"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//form[div/label[normalize-space()='Email*']]/div[8]/div[2]/input",
+          "stability": "OK",
+          "pages": 36,
+          "seenOn": "https://www.nextech.com/blog/healthcare-cybersecurity-challenges"
+        }
+      ],
+      "why": {
+        "rule": "family-by-address",
+        "says": "its 36 pages read look alike (layout 90% the same, headings 36%) and share the address pattern /*/*; joined by: a listing: nearly the same layout, in one folder pattern (224 comparisons); the layouts agree, with some headings shared (183 comparisons); the headings agree, with some layout shared (152 comparisons); 71 comparisons held by no rule",
+        "joinedBy": [
+          {
+            "rule": "listing-folder",
+            "pairs": 224
+          },
+          {
+            "rule": "layout-and-some-headings",
+            "pairs": 183
+          },
+          {
+            "rule": "headings-agree",
+            "pairs": 152
+          }
+        ],
+        "apart": 71
+      }
+    },
+    {
+      "id": "software-application",
+      "name": "SoftwareApplicationPage",
+      "urlPatterns": [
+        "/solutions/*"
+      ],
+      "pages": [
+        "https://www.nextech.com/solutions/ai",
+        "https://www.nextech.com/solutions/patient-experience",
+        "https://www.nextech.com/solutions/practice-management",
+        "https://www.nextech.com/solutions/advanced-analytics"
+      ],
+      "repeated": true,
+      "knownUrls": 5,
+      "titlePattern": null,
+      "sharedHeadings": [
+        "FAQ"
+      ],
+      "inMenu": true,
+      "linksTo": [
+        {
+          "template": "related",
+          "count": 12,
+          "example": {
+            "from": "https://www.nextech.com/solutions/ai",
+            "to": "https://www.nextech.com/press-releases/nextech-unveils-agentic-ai-capabilities-for-patient-experience-through-new-partnerships",
+            "href": "/press-releases/nextech-unveils-agentic-ai-capabilities-for-patient-experience-through-new-partnerships",
+            "text": "Press Release"
+          }
+        },
+        {
+          "template": "article",
+          "count": 5,
+          "example": {
+            "from": "https://www.nextech.com/solutions/patient-experience",
+            "to": "https://www.nextech.com/case-study/loden-vision",
+            "href": "/case-study/loden-vision",
+            "text": "Read case study",
+            "newTab": true
+          }
+        }
+      ],
+      "controls": [
+        {
+          "kind": "button",
+          "words": [
+            "Open Dialog"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Open Dialog']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/solutions/ai"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "First Name*",
+            "firstname"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='firstname']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/solutions/ai"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Last Name*",
+            "lastname"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='lastname']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/solutions/ai"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Practice Name*",
+            "company"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='company']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/solutions/ai"
+        },
+        {
+          "kind": "tel field",
+          "words": [
+            "Phone Number*",
+            "phone"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='phone']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/solutions/ai"
+        },
+        {
+          "kind": "dropdown",
+          "words": [
+            "specialty"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "options": [
+            "Dermatology",
+            "Ophthalmology",
+            "Plastic Surgery",
+            "Orthopedics",
+            "Other"
+          ],
+          "noValidate": true,
+          "xpath": "//select[@name='specialty']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/solutions/ai"
+        },
+        {
+          "kind": "dropdown",
+          "words": [
+            "state"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "options": [
+            "Alabama",
+            "Alaska",
+            "Arizona",
+            "Arkansas",
+            "California"
+          ],
+          "noValidate": true,
+          "xpath": "//select[@name='state']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/solutions/ai"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Request Info"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//form[@data-test-id='hsForm_f8be0689-fac1-4776-859e-0a91e73463b0']/div/div/input",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/solutions/ai"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "How does Nextech approach AI?"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='How does Nextech approach AI?']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/solutions/ai"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "How will Nextech AI connect across my practice?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'How will Nextech AI connect across my')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/solutions/ai"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "How can AI improve the patient experience?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'How can AI improve the patient')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/solutions/ai"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Will AI replace my staff?"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Will AI replace my staff?']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/solutions/ai"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Is AI secure and HIPAA compliant?"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Is AI secure and HIPAA compliant?']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/solutions/ai"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Why is patient experience important for specialty healthc..."
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Why is patient experience important for')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/solutions/patient-experience"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "How can technology improve the patient experience?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'How can technology improve the patient')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/solutions/patient-experience"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "What is the benefit of a connected patient experience pla..."
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'What is the benefit of a connected')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/solutions/patient-experience"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "How does a better patient experience impact practice growth?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'How does a better patient experience')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/solutions/patient-experience"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "How does Nextech help measure patient experience?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'How does Nextech help measure patient')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/solutions/patient-experience"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Why is practice management important for specialty health..."
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Why is practice management important for')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/solutions/practice-management"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "How can technology reduce administrative workload?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'How can technology reduce administrative')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/solutions/practice-management"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "What is the advantage of a connected practice management..."
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'What is the advantage of a connected')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/solutions/practice-management"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Can practice management technology support practice growth?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Can practice management technology')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/solutions/practice-management"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "How does Nextech improve operational performance?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'How does Nextech improve operational')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/solutions/practice-management"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Why is connected data important for specialty practices?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Why is connected data important for')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/solutions/advanced-analytics"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Why do specialty practices struggle to get clear insight..."
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Why do specialty practices struggle to')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/solutions/advanced-analytics"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "What can you better understand with connected reporting?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'What can you better understand with')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/solutions/advanced-analytics"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "How does Nextech help practices make better use of their..."
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'How does Nextech help practices make')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/solutions/advanced-analytics"
+        }
+      ],
+      "why": {
+        "rule": "family-by-address",
+        "says": "its 4 pages read look alike (layout 94% the same, headings 8%) and share the address pattern /solutions/*; joined by: a listing: nearly the same layout, in one folder pattern (6 comparisons)",
+        "joinedBy": [
+          {
+            "rule": "listing-folder",
+            "pairs": 6
+          }
+        ]
+      }
+    },
+    {
+      "id": "client-support",
+      "name": "ClientSupportPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://www.nextech.com/client-support"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "Nextech Community Portal | Client Support | Webinars | Help Docs",
+      "sharedHeadings": [
+        "Client Resources",
+        "System Status",
+        "Need additional help?",
+        "Client Support",
+        "Sales",
+        "Business hours:",
+        "Connect to Support",
+        "NexCloud",
+        "SRSPro EHR",
+        "Direct Message",
+        "TouchMD",
+        "Technical Specifications"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /developers-portal, shares 79% of its layout and 3% of its headings)"
+      }
+    },
+    {
+      "id": "specialties-ophthalmology",
+      "name": "SpecialtiesOphthalmologyPage",
+      "urlPatterns": [
+        "/specialties/*"
+      ],
+      "pages": [
+        "https://www.nextech.com/specialties/ophthalmology"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "Ophthalmology EHR, Practice Management, & Patient Experience | Nextech",
+      "sharedHeadings": [
+        "Transform your ophthalmology practice",
+        "Recognized as a top ophthalmology medical practice solution provider",
+        "Grow your ophthalmology practice with confidence",
+        "Provide great care, efficiently",
+        "Transform how work gets done",
+        "Inspire trust with a frictionless patient experience",
+        "Get the highest reimbursements",
+        "Why ophthalmology practices love Nextech",
+        "7h",
+        "#1 EHR",
+        "25+",
+        "Build your practice with connected technology designed for ophthalmology",
+        "Clinical workflows (EHR)",
+        "Practice management",
+        "Patient experience (CRM)",
+        "Revenue cycle management (RCM)",
+        "See the difference specialty-focused technology makes",
+        "Meet Cora Scribe, the AI scribe built for ophthalmology",
+        "More than a technology provider. Your partner in practice growth.",
+        "Insights & tips for your practice",
+        "Ready to transform your ophthalmology practice?",
+        "FAQ",
+        "Is your software server or cloud-based?",
+        "What about scalability as our practice expands?",
+        "How does Nextech reduce excessive documentation burdens?",
+        "What about EHR quality reporting?",
+        "What if our practice has documentation concerns?"
+      ],
+      "inMenu": true,
+      "linksTo": [
+        {
+          "template": "article",
+          "count": 2,
+          "example": {
+            "from": "https://www.nextech.com/specialties/ophthalmology",
+            "to": "https://www.nextech.com/case-studies/mcknight-eye-centers",
+            "href": "/case-studies/mcknight-eye-centers",
+            "text": "Read case study"
+          }
+        },
+        {
+          "template": "n5500",
+          "count": 1,
+          "example": {
+            "from": "https://www.nextech.com/specialties/ophthalmology",
+            "to": "https://www.nextech.com/specialties/ophthalmology/ehr-software",
+            "href": "/specialties/ophthalmology/ehr-software",
+            "text": "Explore EHR features"
+          }
+        },
+        {
+          "template": "specialties-ophthalmology-crm-software",
+          "count": 1,
+          "example": {
+            "from": "https://www.nextech.com/specialties/ophthalmology",
+            "to": "https://www.nextech.com/specialties/ophthalmology/crm-software",
+            "href": "/specialties/ophthalmology/crm-software",
+            "text": "Explore CRM features"
+          }
+        }
+      ],
+      "controls": [
+        {
+          "kind": "button",
+          "words": [
+            "Open Dialog"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Open Dialog']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/ophthalmology"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Is your software server or cloud-based?"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Is your software server or cloud-based?']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/ophthalmology"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "What about scalability as our practice expands?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'What about scalability as our practice')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/ophthalmology"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "How does Nextech reduce excessive documentation burdens?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'How does Nextech reduce excessive')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/ophthalmology"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "What about EHR quality reporting?"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='What about EHR quality reporting?']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/ophthalmology"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "What if our practice has documentation concerns?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'What if our practice has documentation')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/ophthalmology"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Will we have the ability to communicate securely with oth..."
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Will we have the ability to communicate')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/ophthalmology"
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /specialties/dermatology, shares 99% of its layout and 12% of its headings)"
+      }
+    },
+    {
+      "id": "resource-center",
+      "name": "ResourceCenterPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://www.nextech.com/resource-center"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "EHR & Practice Management Software Resources | Nextech",
+      "sharedHeadings": [
+        "Insights & tips for your practice",
+        "Email*",
+        "Resources your peers found helpful",
+        "Connect with us at an upcoming event!",
+        "Resources"
+      ],
+      "inMenu": true,
+      "linksTo": [
+        {
+          "template": "related",
+          "count": 2,
+          "example": {
+            "from": "https://www.nextech.com/resource-center",
+            "to": "https://www.nextech.com/blog/how-to-prevent-healthcare-data-breaches",
+            "href": "/blog/how-to-prevent-healthcare-data-breaches",
+            "text": "Blog"
+          }
+        }
+      ],
+      "controls": [
+        {
+          "kind": "button",
+          "words": [
+            "Subscribe"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//form[div/label[normalize-space()='Email*']]/div[8]/div[2]/input",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/resource-center"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to slide 5"
+          ],
+          "region": "main",
+          "xpath": "//span[@aria-label='Go to slide 5']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/resource-center"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to slide 6"
+          ],
+          "region": "main",
+          "xpath": "//span[@aria-label='Go to slide 6']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/resource-center"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "CONTENT TYPE"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Content Type0']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/resource-center"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "SPECIALTY"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Specialty0']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/resource-center"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "SOLUTION"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Solution0']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/resource-center"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Tag filter",
+            "Tag"
+          ],
+          "region": "main",
+          "xpath": "//input[@aria-label='Tag filter']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/resource-center"
+        },
+        {
+          "kind": "search field",
+          "words": [
+            "Search resources"
+          ],
+          "region": "main",
+          "xpath": "//input[@aria-label='Search resources']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/resource-center"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Previous page"
+          ],
+          "region": "main",
+          "disabled": true,
+          "xpath": "//button[@aria-label='Previous page']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/resource-center"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Page 1",
+            "1"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Page 1']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/resource-center"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Page 2",
+            "2"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Page 2']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/resource-center"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Page 3",
+            "3"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Page 3']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/resource-center"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Page 58",
+            "58"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Page 58']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/resource-center"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Next page"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Next page']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/resource-center"
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /events, shares 77% of its layout and 0% of its headings)"
+      }
+    },
+    {
+      "id": "aesthetically-speaking",
+      "name": "AestheticallySpeakingPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://www.nextech.com/aesthetically-speaking"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "Aesthetically Speaking",
+      "sharedHeadings": [
+        "Aesthetically Speaking podcast",
+        "Discover new ways Nextech can help your practice thrive"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /developers-portal, shares 84% of its layout and 0% of its headings)"
+      }
+    },
+    {
+      "id": "article",
+      "name": "ArticlePage",
+      "urlPatterns": [
+        "/case-studies/*"
+      ],
+      "pages": [
+        "https://www.nextech.com/case-studies/mcknight-eye-centers",
+        "https://www.nextech.com/case-studies/ophthalmology-associates-of-fort-worth",
+        "https://www.nextech.com/case-studies/carolina-eyecare-physicians-a-us-eye-company",
+        "https://www.nextech.com/case-studies/short-hills-ophthalmology-group",
+        "https://www.nextech.com/case-studies/north-texas-plastic-surgery",
+        "https://www.nextech.com/case-studies/loden-vision"
+      ],
+      "repeated": true,
+      "knownUrls": 6,
+      "titlePattern": null,
+      "sharedHeadings": [
+        "Practice profile"
+      ],
+      "inMenu": false,
+      "linksTo": [
+        {
+          "template": "related",
+          "count": 1,
+          "example": {
+            "from": "https://www.nextech.com/case-studies/north-texas-plastic-surgery",
+            "to": "https://www.nextech.com/blog/cost-of-not-switching-plastic-surgery-software",
+            "href": "https://www.nextech.com/blog/cost-of-not-switching-plastic-surgery-software",
+            "text": "choose a new EHR/PM system"
+          }
+        }
+      ],
+      "why": {
+        "rule": "family-by-address",
+        "says": "its 6 pages read look alike (layout 93% the same, headings 34%) and share the address pattern /case-studies/*; joined by: the layouts agree, with some headings shared (10 comparisons); the headings agree, with some layout shared (4 comparisons); 1 comparison held by no rule",
+        "joinedBy": [
+          {
+            "rule": "layout-and-some-headings",
+            "pairs": 10
+          },
+          {
+            "rule": "headings-agree",
+            "pairs": 4
+          }
+        ],
+        "apart": 1
+      }
+    },
+    {
+      "id": "products-practice-management",
+      "name": "ProductsPracticeManagementPage",
+      "urlPatterns": [
+        "/products/*"
+      ],
+      "pages": [
+        "https://www.nextech.com/products/practice-management"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "Practice Management Software for Specialty Healthcare | Nextech",
+      "sharedHeadings": [
+        "Manage your practice with clarity and control",
+        "Practice+ practice management system",
+        "Seamless EHR & CRM integration",
+        "Advanced scheduling",
+        "Patient registration & intake",
+        "Billing & revenue workflows",
+        "Embedded payments",
+        "Reporting & insights",
+        "Complex memberships",
+        "Scalability & flexibility",
+        "NexCloud practice management system",
+        "Customizable user permissions",
+        "Patient tracking & workflow automation",
+        "Flexible scheduling & resource management",
+        "Frictionless patient portal & intake forms",
+        "Inventory & package management",
+        "Advanced reporting & data export",
+        "Integrated billing & financial management",
+        "Charting & clinical documentation",
+        "Specialty practices nationwide love Nextech",
+        "5,500+",
+        "16K+",
+        "60K+",
+        "More than a technology provider. Your partner in practice growth.",
+        "Insights & tips for your practice",
+        "Ready to bring clarity and control to your practice operations?",
+        "FAQ",
+        "Is Nextech practice management cloud-based?",
+        "Can Nextech practice management scale with my practice as we grow?",
+        "How does Nextech practice management reduce administrative workload?",
+        "Does Nextech practice management integrate with other Nextech solutions?",
+        "What kind of reporting does Nextech practice management provide?"
+      ],
+      "inMenu": true,
+      "linksTo": [
+        {
+          "template": "related",
+          "count": 3,
+          "example": {
+            "from": "https://www.nextech.com/products/practice-management",
+            "to": "https://www.nextech.com/blog/how-to-prevent-healthcare-data-breaches",
+            "href": "/blog/how-to-prevent-healthcare-data-breaches",
+            "text": "Blog"
+          }
+        }
+      ],
+      "controls": [
+        {
+          "kind": "expander",
+          "words": [
+            "Seamless EHR & CRM integration"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Seamless EHR & CRM integration']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/practice-management"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Advanced scheduling"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Advanced scheduling']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/practice-management"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Patient registration & intake"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Patient registration & intake']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/practice-management"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Billing & revenue workflows"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Billing & revenue workflows']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/practice-management"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Embedded payments"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Embedded payments']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/practice-management"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Reporting & insights"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Reporting & insights']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/practice-management"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Complex memberships"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Complex memberships']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/practice-management"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Scalability & flexibility"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Scalability & flexibility']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/practice-management"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Customizable user permissions"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Customizable user permissions']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/practice-management"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Patient tracking & workflow automation"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Patient tracking & workflow automation']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/practice-management"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Flexible scheduling & resource management"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Flexible scheduling & resource')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/practice-management"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Frictionless patient portal & intake forms"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Frictionless patient portal & intake')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/practice-management"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Inventory & package management"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Inventory & package management']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/practice-management"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Advanced reporting & data export"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Advanced reporting & data export']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/practice-management"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Integrated billing & financial management"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Integrated billing & financial')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/practice-management"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Charting & clinical documentation"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Charting & clinical documentation']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/practice-management"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Is Nextech practice management cloud-based?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Is Nextech practice management')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/practice-management"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Can Nextech practice management scale with my practice as..."
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Can Nextech practice management scale')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/practice-management"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "How does Nextech practice management reduce administrativ..."
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'How does Nextech practice management')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/practice-management"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Does Nextech practice management integrate with other Nex..."
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Does Nextech practice management')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/practice-management"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "What kind of reporting does Nextech practice management p..."
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'What kind of reporting does Nextech')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/practice-management"
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /products/consulting, shares 94% of its layout and 9% of its headings)"
+      }
+    },
+    {
+      "id": "events",
+      "name": "EventsPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://www.nextech.com/events"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "Nextech Events | EHR & Practice Management",
+      "sharedHeadings": [
+        "Connect with us in person",
+        "Join us at these upcoming favorites!",
+        "Explore all events",
+        "Discover your Practice's Potential"
+      ],
+      "inMenu": true,
+      "linksTo": [
+        {
+          "template": "related",
+          "count": 1,
+          "example": {
+            "from": "https://www.nextech.com/events",
+            "to": "https://www.nextech.com/blog/how-to-prevent-healthcare-data-breaches",
+            "href": "/blog/how-to-prevent-healthcare-data-breaches",
+            "text": "Blog"
+          }
+        }
+      ],
+      "controls": [
+        {
+          "kind": "button",
+          "words": [
+            "SPECIALTY"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Specialty0']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/events"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "EVENT TYPE"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Event Type0']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/events"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "MONTH"
+          ],
+          "region": "main",
+          "xpath": "//button[normalize-space()='Month0']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/events"
+        },
+        {
+          "kind": "search field",
+          "words": [
+            "Search events"
+          ],
+          "region": "main",
+          "xpath": "//input[@aria-label='Search events']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/events"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Go to slide 1"
+          ],
+          "region": "main",
+          "xpath": "(//span[@aria-label='Go to slide 1'])[2]",
+          "stability": "Fragile",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/events"
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /resource-center, shares 77% of its layout and 0% of its headings)"
+      }
+    },
+    {
+      "id": "first-name",
+      "name": "FirstNamePage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://www.nextech.com/request-demo",
+        "https://www.nextech.com/request-info"
+      ],
+      "repeated": true,
+      "knownUrls": 7,
+      "titlePattern": null,
+      "sharedHeadings": [
+        "First Name*",
+        "Last Name*",
+        "Practice Name*",
+        "Work Email*",
+        "Phone Number*",
+        "Recognized as the Top Platform for Specialty Practices",
+        "What our customers are saying"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "controls": [
+        {
+          "kind": "button",
+          "words": [
+            "Open Dialog",
+            "Customer story 1 min"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Open Dialog']",
+          "stability": "Strong",
+          "pages": 2,
+          "seenOn": "https://www.nextech.com/request-demo"
+        }
+      ],
+      "why": {
+        "rule": "family-by-evidence",
+        "says": "its 2 pages read look alike (layout 99% the same, headings 64%), and every page shows the heading \"First Name*\"; joined by: the headings agree, with some layout shared (1 comparison)",
+        "joinedBy": [
+          {
+            "rule": "headings-agree",
+            "pairs": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "company-about",
+      "name": "CompanyAboutPage",
+      "urlPatterns": [
+        "/company/*"
+      ],
+      "pages": [
+        "https://www.nextech.com/company/about"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "EMR Software | Medical Software Companies | About | Nextech",
+      "sharedHeadings": [
+        "Redefining what’s possible in specialty healthcare",
+        "Our products and services",
+        "Our promise",
+        "A trusted advisor for specialty practices",
+        "16K+",
+        "5,500+",
+        "60K+",
+        "Our leadership",
+        "Awards and recognition",
+        "Creating an environment where our teams can thrive",
+        "Maximize your potential with Nextech"
+      ],
+      "inMenu": true,
+      "linksTo": [
+        {
+          "template": "profile",
+          "count": 3,
+          "example": {
+            "from": "https://www.nextech.com/company/about",
+            "to": "https://www.nextech.com/company/leadership/bryan-leblanc",
+            "href": "/company/leadership/bryan-leblanc",
+            "text": "Smiling bald man wearing glasses, a dark checkered blazer, and a maroon shirt i…"
+          }
+        }
+      ],
+      "controls": [
+        {
+          "kind": "button",
+          "words": [
+            "Why Nextech 1 min"
+          ],
+          "region": "main",
+          "xpath": "(//button)[1]",
+          "stability": "Fragile",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/company/about"
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /products/consulting, shares 62% of its layout and 11% of its headings)"
+      }
+    },
+    {
+      "id": "profile",
+      "name": "ProfilePage",
+      "urlPatterns": [
+        "/company/leadership/*",
+        "/author/*"
+      ],
+      "pages": [
+        "https://www.nextech.com/company/leadership/adam-kraft",
+        "https://www.nextech.com/company/leadership/dr-jason-handza",
+        "https://www.nextech.com/company/leadership/bryan-leblanc",
+        "https://www.nextech.com/author/nextech",
+        "https://www.nextech.com/author/david-slazyk",
+        "https://www.nextech.com/author/tom-robinette"
+      ],
+      "repeated": true,
+      "knownUrls": 23,
+      "titlePattern": null,
+      "sharedHeadings": [
+        "Explore Our Current Openings"
+      ],
+      "inMenu": false,
+      "linksTo": [
+        {
+          "template": "related",
+          "count": 11,
+          "example": {
+            "from": "https://www.nextech.com/author/nextech",
+            "to": "https://www.nextech.com/press-releases/nextech-unveils-agentic-ai-capabilities-for-patient-experience-through-new-partnerships",
+            "href": "/press-releases/nextech-unveils-agentic-ai-capabilities-for-patient-experience-through-new-partnerships",
+            "text": "Nextech Unveils Agentic AI Capabilities for Patient Experience through Partners…"
+          }
+        }
+      ],
+      "why": {
+        "rule": "family-by-address",
+        "says": "its 6 pages read look alike (layout 84% the same, headings 39%) and share the address pattern /company/leadership/*; joined by: the headings agree, with some layout shared (8 comparisons); the layouts agree, with some headings shared (7 comparisons)",
+        "joinedBy": [
+          {
+            "rule": "headings-agree",
+            "pairs": 8
+          },
+          {
+            "rule": "layout-and-some-headings",
+            "pairs": 7
+          }
+        ]
+      }
+    },
+    {
+      "id": "legal",
+      "name": "LegalPage",
+      "urlPatterns": [
+        "/legal/*"
+      ],
+      "pages": [
+        "https://www.nextech.com/legal/privacy-policy",
+        "https://www.nextech.com/legal/ccpa"
+      ],
+      "repeated": true,
+      "knownUrls": 2,
+      "titlePattern": null,
+      "sharedHeadings": [],
+      "inMenu": true,
+      "linksTo": [],
+      "why": {
+        "rule": "family-by-address",
+        "says": "its 2 pages read look alike (layout 100% the same, headings 0%) and share the address pattern /legal/*; joined by: a listing: nearly the same layout, in one folder pattern (1 comparison)",
+        "joinedBy": [
+          {
+            "rule": "listing-folder",
+            "pairs": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "specialties-ophthalmology-crm-software",
+      "name": "SpecialtiesOphthalmologyCrmSoftwarePage",
+      "urlPatterns": [
+        "/specialties/ophthalmology/*"
+      ],
+      "pages": [
+        "https://www.nextech.com/specialties/ophthalmology/crm-software"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "Nextech CRM | Ophthalmology Practice Growth Software",
+      "sharedHeadings": [
+        "Practice growth starts with one intelligent, connected workflow",
+        "Obstacles to premium revenue growth",
+        "LASIK & Refractive Surgery Challenge",
+        "Refractive Lens Exchange (RLE)",
+        "Premium Cataract Surgery",
+        "Dry Eye Treatment",
+        "Glaucoma",
+        "Oculoplastics",
+        "Keep up with the evolving patient journey",
+        "How Nextech CRM keeps thing moving",
+        "Ready to see Nextech CRM in action?",
+        "Request more information",
+        "First Name*",
+        "Last Name*",
+        "Practice Name*",
+        "Work Email*",
+        "Phone Number*",
+        "Insights & tips for your practice",
+        "Ready to close the gap between inquiry and treatment?"
+      ],
+      "inMenu": false,
+      "linksTo": [
+        {
+          "template": "related",
+          "count": 2,
+          "example": {
+            "from": "https://www.nextech.com/specialties/ophthalmology/crm-software",
+            "to": "https://www.nextech.com/blog/patient-engagement-in-healthcare",
+            "href": "/blog/patient-engagement-in-healthcare",
+            "text": "patient engagement"
+          }
+        },
+        {
+          "template": "lp-connected-growth-hub",
+          "count": 1,
+          "example": {
+            "from": "https://www.nextech.com/specialties/ophthalmology/crm-software",
+            "to": "https://www.nextech.com/lp/connected-growth-hub",
+            "href": "/lp/connected-growth-hub",
+            "text": "Download the playbook"
+          }
+        }
+      ],
+      "controls": [
+        {
+          "kind": "expander",
+          "words": [
+            "LASIK & Refractive Surgery Challenge"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='LASIK & Refractive Surgery Challenge']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/ophthalmology/crm-software"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Refractive Lens Exchange (RLE)"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Refractive Lens Exchange (RLE)']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/ophthalmology/crm-software"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Premium Cataract Surgery"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Premium Cataract Surgery']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/ophthalmology/crm-software"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Dry Eye Treatment"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Dry Eye Treatment']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/ophthalmology/crm-software"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Glaucoma"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Glaucoma']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/ophthalmology/crm-software"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Oculoplastics"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Oculoplastics']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/ophthalmology/crm-software"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Open Dialog"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Open Dialog']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/ophthalmology/crm-software"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "First Name*",
+            "firstname"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='firstname']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/ophthalmology/crm-software"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Last Name*",
+            "lastname"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='lastname']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/ophthalmology/crm-software"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Practice Name*",
+            "company"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='company']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/ophthalmology/crm-software"
+        },
+        {
+          "kind": "tel field",
+          "words": [
+            "Phone Number*",
+            "phone"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='phone']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/ophthalmology/crm-software"
+        },
+        {
+          "kind": "dropdown",
+          "words": [
+            "specialty"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "options": [
+            "Dermatology",
+            "Ophthalmology",
+            "Plastic Surgery",
+            "Orthopedics",
+            "Other"
+          ],
+          "noValidate": true,
+          "xpath": "//select[@name='specialty']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/ophthalmology/crm-software"
+        },
+        {
+          "kind": "dropdown",
+          "words": [
+            "state"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "options": [
+            "Alabama",
+            "Alaska",
+            "Arizona",
+            "Arkansas",
+            "California"
+          ],
+          "noValidate": true,
+          "xpath": "//select[@name='state']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/ophthalmology/crm-software"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Request Info"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//form[@data-test-id='hsForm_6bf9b1a5-f3c1-4486-9485-c7120a8ed060']/div/div/input",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/specialties/ophthalmology/crm-software"
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /products/cora, shares 89% of its layout and 15% of its headings)"
+      }
+    },
+    {
+      "id": "developers-portal",
+      "name": "DevelopersPortalPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://www.nextech.com/developers-portal"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "Developers Portal | Nextech",
+      "sharedHeadings": [
+        "Developers Portal",
+        "Nextech Patient API Access",
+        "What is an API?",
+        "Nextech API Access for Patients",
+        "How can I use the Nextech Patient APIs?",
+        "New Vendor API Partnership Request",
+        "Email*",
+        "First name*",
+        "Last name*",
+        "State/Region*",
+        "Country/Region*",
+        "Company name*",
+        "Website URL*",
+        "Your solution supports which intended audience?*",
+        "Patient (allows Patients to retrieve their health data)",
+        "What type of access are you requesting? (Select all that apply)*",
+        "Basic regulatory access – (USCDI v3 read only)",
+        "Basic regulatory access and more – (i.e. Scheduling, other EHI, write access)",
+        "3rd Party API Access",
+        "Applications Currently Connected to the Nextech APIs",
+        "FHIR Base URLs",
+        "Nextech API documentation",
+        "Browse the NexCloud/Select - FHIR Standards API Documentation",
+        "Browse the Nextech IntelleChartPRO EMR - FHIR Standards API Documentation",
+        "Browse the Nextech Practice+ PM - FHIR Standards API Documentation",
+        "Browse SRSPro Documentation",
+        "Additional resources"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "controls": [
+        {
+          "kind": "text field",
+          "words": [
+            "First name*",
+            "firstname"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='firstname']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/developers-portal"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Last name*",
+            "lastname"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='lastname']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/developers-portal"
+        },
+        {
+          "kind": "dropdown",
+          "words": [
+            "State/Region*",
+            "state"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "options": [
+            "Alabama",
+            "Alaska",
+            "Arizona",
+            "Arkansas",
+            "California"
+          ],
+          "noValidate": true,
+          "xpath": "//select[@name='state']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/developers-portal"
+        },
+        {
+          "kind": "dropdown",
+          "words": [
+            "Country/Region*",
+            "country"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "options": [
+            "United States",
+            "Canada",
+            "Other"
+          ],
+          "noValidate": true,
+          "xpath": "//select[@name='country']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/developers-portal"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Company name*",
+            "company"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='company']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/developers-portal"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Website URL*",
+            "website"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='website']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/developers-portal"
+        },
+        {
+          "kind": "checkbox",
+          "words": [
+            "Patient (allows Patients to retrieve their health data) P..."
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//form[@data-test-id='hsForm_bc9ce3e4-07ed-41ed-a58f-715d11cbe4fa']//div[div/label/span[normalize-space()='*']]/div/div/ul",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/developers-portal"
+        },
+        {
+          "kind": "radio",
+          "words": [
+            "Patient (allows Patients to retrieve their health data)"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//li[starts-with(normalize-space(),'Patient (allows Patients to retrieve')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/developers-portal"
+        },
+        {
+          "kind": "radio",
+          "words": [
+            "Patient (allows Patients to retrieve their health data)",
+            "provider_or_third_party__allows_providers_and_third_parti..."
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "(//form[@data-test-id='hsForm_bc9ce3e4-07ed-41ed-a58f-715d11cbe4fa']//input)[6]",
+          "stability": "Fragile",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/developers-portal"
+        },
+        {
+          "kind": "radio",
+          "words": [
+            "Provider or Third Party (allows Providers and Third Parti..."
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//li[starts-with(normalize-space(),'Provider or Third Party (allows')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/developers-portal"
+        },
+        {
+          "kind": "radio",
+          "words": [
+            "Provider or Third Party (allows Providers and Third Parti...",
+            "provider_or_third_party__allows_providers_and_third_parti..."
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "(//form[@data-test-id='hsForm_bc9ce3e4-07ed-41ed-a58f-715d11cbe4fa']//input)[7]",
+          "stability": "Fragile",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/developers-portal"
+        },
+        {
+          "kind": "checkbox",
+          "words": [
+            "Basic regulatory access – (USCDI v3 read only) Basic regu..."
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "(//form[@data-test-id='hsForm_bc9ce3e4-07ed-41ed-a58f-715d11cbe4fa']//ul)[2]",
+          "stability": "Fragile",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/developers-portal"
+        },
+        {
+          "kind": "checkbox",
+          "words": [
+            "Basic regulatory access – (USCDI v3 read only)"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//li[starts-with(normalize-space(),'Basic regulatory access – (USCDI v3 read')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/developers-portal"
+        },
+        {
+          "kind": "checkbox",
+          "words": [
+            "Basic regulatory access – (USCDI v3 read only)",
+            "what_type_of_access_are_you_requesting_"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "(//form[@data-test-id='hsForm_bc9ce3e4-07ed-41ed-a58f-715d11cbe4fa']//input[@name='what_type_of_access_are_you_requesting_'])[1]",
+          "stability": "Fragile",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/developers-portal"
+        },
+        {
+          "kind": "checkbox",
+          "words": [
+            "Basic regulatory access and more – (i.e. Scheduling, othe..."
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//li[starts-with(normalize-space(),'Basic regulatory access and more – (i.e.')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/developers-portal"
+        },
+        {
+          "kind": "checkbox",
+          "words": [
+            "Basic regulatory access and more – (i.e. Scheduling, othe...",
+            "what_type_of_access_are_you_requesting_"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "(//form[@data-test-id='hsForm_bc9ce3e4-07ed-41ed-a58f-715d11cbe4fa']//input[@name='what_type_of_access_are_you_requesting_'])[2]",
+          "stability": "Fragile",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/developers-portal"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Submit"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//form[@data-test-id='hsForm_bc9ce3e4-07ed-41ed-a58f-715d11cbe4fa']/div/div/input",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/developers-portal"
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /contact, shares 84% of its layout and 9% of its headings)"
+      }
+    },
+    {
+      "id": "partnerships",
+      "name": "PartnershipsPage",
+      "urlPatterns": [
+        "/*"
+      ],
+      "pages": [
+        "https://www.nextech.com/partnerships"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "Partners | Connected Solutions | Nextech",
+      "sharedHeadings": [
+        "The network powering specialty medicine",
+        "Industry-leading technology partners",
+        "Committed to Your Medical Community",
+        "Supporting the associations that champion your specialty",
+        "Discover your Practice's Potential"
+      ],
+      "inMenu": true,
+      "linksTo": [],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /developers-portal, shares 69% of its layout and 0% of its headings)"
+      }
+    },
+    {
+      "id": "company-careers",
+      "name": "CompanyCareersPage",
+      "urlPatterns": [
+        "/company/*"
+      ],
+      "pages": [
+        "https://www.nextech.com/company/careers"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "Careers at Nextech | Join Our Healthcare Technology Team",
+      "sharedHeadings": [
+        "Transform your career with the leading EHR & Practice Management Provider.",
+        "Our mission",
+        "Working at Nextech",
+        "Our values",
+        "Client success is our success",
+        "Embrace and lead change",
+        "Do the right thing",
+        "Growing together",
+        "It takes all of us",
+        "Act as one team",
+        "Diversity & Inclusion",
+        "Our Teams",
+        "Product and Technology",
+        "Stories from our Team",
+        "Women in Tech",
+        "Employee Benefits",
+        "Medical",
+        "Paid Leave",
+        "Job openings",
+        "Ophthalmology",
+        "Regional Sales Director (Remote - United States)",
+        "Regional Sales Manager - Ophthalmology (Remote-United States)",
+        "PDO",
+        "Regional Sales Manager - Med Aesthetics (Remote-US)",
+        "Strategic Accounts Sales Manager",
+        "Quality Assurance",
+        "Lead Software Engineer in Test – Agentic AI (Remote - US)",
+        "Important Notice Regarding Potential Employment Scams:",
+        "What people are saying about Nextech",
+        "Explore Our Current Openings"
+      ],
+      "inMenu": true,
+      "linksTo": [
+        {
+          "template": "related",
+          "count": 1,
+          "example": {
+            "from": "https://www.nextech.com/company/careers",
+            "to": "https://www.nextech.com/blog/celebrating-career-journeys-marian-llamas",
+            "href": "/blog/celebrating-career-journeys-marian-llamas",
+            "text": "Read the blog"
+          }
+        }
+      ],
+      "controls": [
+        {
+          "kind": "button",
+          "words": [
+            "Open Dialog"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Open Dialog']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/company/careers"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Product and Technology"
+          ],
+          "region": "main",
+          "xpath": "//div[@id='tab-6up-1-0']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/company/careers"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Client experience"
+          ],
+          "region": "main",
+          "xpath": "//div[@id='tab-6up-1-1']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/company/careers"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Accounting and finance"
+          ],
+          "region": "main",
+          "xpath": "//div[@id='tab-6up-1-2']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/company/careers"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Marketing"
+          ],
+          "region": "main",
+          "xpath": "//div[@id='tab-6up-1-3']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/company/careers"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Sales"
+          ],
+          "region": "main",
+          "xpath": "//div[@id='tab-6up-1-4']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/company/careers"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "People and culture"
+          ],
+          "region": "main",
+          "xpath": "//div[@id='tab-6up-1-5']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/company/careers"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Previous slide"
+          ],
+          "region": "main",
+          "disabled": true,
+          "xpath": "//button[@aria-label='Previous slide']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/company/careers"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Next slide"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Next slide']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/company/careers"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Medical"
+          ],
+          "region": "main",
+          "xpath": "//div[@id='tab-benefits-2-0']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/company/careers"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Dental"
+          ],
+          "region": "main",
+          "xpath": "//div[@id='tab-benefits-2-1']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/company/careers"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Vision"
+          ],
+          "region": "main",
+          "xpath": "//div[@id='tab-benefits-2-2']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/company/careers"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Health Savings Account"
+          ],
+          "region": "main",
+          "xpath": "//div[@id='tab-benefits-2-3']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/company/careers"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Flexible Spending Account"
+          ],
+          "region": "main",
+          "xpath": "//div[@id='tab-benefits-2-4']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/company/careers"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Wellness"
+          ],
+          "region": "main",
+          "xpath": "//div[@id='tab-benefits-2-5']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/company/careers"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Paid Leave"
+          ],
+          "region": "main",
+          "xpath": "//div[@id='tab-benefits-3-0']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/company/careers"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "401(k)"
+          ],
+          "region": "main",
+          "xpath": "//div[@id='tab-benefits-3-1']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/company/careers"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Company Paid Benefits"
+          ],
+          "region": "main",
+          "xpath": "//div[@id='tab-benefits-3-2']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/company/careers"
+        },
+        {
+          "kind": "tab",
+          "words": [
+            "Health Savings Account"
+          ],
+          "region": "main",
+          "xpath": "//div[@id='tab-benefits-3-3']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/company/careers"
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /products/practice-management, shares 64% of its layout and 0% of its headings)"
+      }
+    },
+    {
+      "id": "lp-connected-growth-hub",
+      "name": "LpConnectedGrowthHubPage",
+      "urlPatterns": [
+        "/lp/*"
+      ],
+      "pages": [
+        "https://www.nextech.com/lp/connected-growth-hub"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "The Connected Growth Hub",
+      "sharedHeadings": [
+        "First Name*",
+        "Last Name*",
+        "Email*",
+        "You'll learn",
+        "More assets you might like"
+      ],
+      "inMenu": false,
+      "linksTo": [
+        {
+          "template": "related",
+          "count": 1,
+          "example": {
+            "from": "https://www.nextech.com/lp/connected-growth-hub",
+            "to": "https://www.nextech.com/blog/healthcare-financial-management",
+            "href": "/blog/healthcare-financial-management",
+            "text": "Blog"
+          }
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /request-info, shares 41% of its layout and 17% of its headings)"
+      }
+    },
+    {
+      "id": "products-touchmd",
+      "name": "ProductsTouchmdPage",
+      "urlPatterns": [
+        "/products/*"
+      ],
+      "pages": [
+        "https://www.nextech.com/products/touchmd"
+      ],
+      "repeated": false,
+      "knownUrls": 1,
+      "titlePattern": "TouchMD Patient Engagement & Clinical Photography Software | Nextech",
+      "sharedHeadings": [
+        "Bring patient consultations to life",
+        "TouchMD",
+        "Seamless Nextech integration",
+        "Beautiful, interactive consultation software",
+        "AI-powered photography",
+        "End-to-end photo tool",
+        "Point-of-care visual experiences",
+        "Digital consents & patient education",
+        "Integrated telehealth",
+        "Consistently capture authentic outcomes",
+        "Perfect photography every time",
+        "Effortless photo management",
+        "Elevate every consultation",
+        "Built for elite specialty practices",
+        "Specialty practices nationwide love Nextech",
+        "5,500+",
+        "16K+",
+        "60K+",
+        "More than a technology provider. Your partner in practice growth.",
+        "Ready to elevate every consultation?",
+        "Request more information",
+        "First Name*",
+        "Last Name*",
+        "Company name*",
+        "Email*",
+        "Phone number*",
+        "Specialty*",
+        "State/Region*",
+        "Insights & tips for your practice",
+        "FAQ",
+        "How does TouchMD improve patient consultations?",
+        "Can TouchMD integrate with Nextech solutions?",
+        "What devices support TouchMD photography tools?",
+        "Is patient photography securely stored?",
+        "Does TouchMD support virtual consultations?",
+        "Is TouchMD relevant for ophthalmology practices?"
+      ],
+      "inMenu": true,
+      "linksTo": [
+        {
+          "template": "related",
+          "count": 4,
+          "example": {
+            "from": "https://www.nextech.com/products/touchmd",
+            "to": "https://www.nextech.com/blog/cost-of-not-switching-plastic-surgery-software",
+            "href": "/blog/cost-of-not-switching-plastic-surgery-software",
+            "text": "Blog"
+          }
+        }
+      ],
+      "controls": [
+        {
+          "kind": "expander",
+          "words": [
+            "Seamless Nextech integration"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Seamless Nextech integration']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/touchmd"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Beautiful, interactive consultation software"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Beautiful, interactive consultation')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/touchmd"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "AI-powered photography"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='AI-powered photography']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/touchmd"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "End-to-end photo tool"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='End-to-end photo tool']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/touchmd"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Point-of-care visual experiences"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Point-of-care visual experiences']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/touchmd"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Digital consents & patient education"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Digital consents & patient education']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/touchmd"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Integrated telehealth"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Integrated telehealth']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/touchmd"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Open Dialog"
+          ],
+          "region": "main",
+          "xpath": "//button[@aria-label='Open Dialog']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/touchmd"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "First Name*",
+            "firstname"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='firstname']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/touchmd"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Last Name*",
+            "lastname"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='lastname']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/touchmd"
+        },
+        {
+          "kind": "text field",
+          "words": [
+            "Company name*",
+            "company"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='company']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/touchmd"
+        },
+        {
+          "kind": "tel field",
+          "words": [
+            "Phone number*",
+            "phone"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "noValidate": true,
+          "xpath": "//input[@name='phone']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/touchmd"
+        },
+        {
+          "kind": "dropdown",
+          "words": [
+            "Specialty*",
+            "specialty"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "options": [
+            "Dermatology",
+            "Ophthalmology",
+            "Plastic Surgery",
+            "Orthopedics",
+            "Other"
+          ],
+          "noValidate": true,
+          "xpath": "//select[@name='specialty']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/touchmd"
+        },
+        {
+          "kind": "dropdown",
+          "words": [
+            "State/Region*",
+            "state"
+          ],
+          "region": "main",
+          "form": "a form",
+          "required": true,
+          "options": [
+            "Alabama",
+            "Alaska",
+            "Arizona",
+            "Arkansas",
+            "California"
+          ],
+          "noValidate": true,
+          "xpath": "//select[@name='state']",
+          "stability": "Strong",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/touchmd"
+        },
+        {
+          "kind": "button",
+          "words": [
+            "Request Demo"
+          ],
+          "region": "main",
+          "form": "a form",
+          "noValidate": true,
+          "xpath": "//form[@data-test-id='hsForm_a385857c-2a5a-4f2a-a189-65ae71e97869']/div/div/input",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/touchmd"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "How does TouchMD improve patient consultations?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'How does TouchMD improve patient')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/touchmd"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Can TouchMD integrate with Nextech solutions?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Can TouchMD integrate with Nextech')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/touchmd"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "What devices support TouchMD photography tools?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'What devices support TouchMD photography')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/touchmd"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Is patient photography securely stored?"
+          ],
+          "region": "main",
+          "xpath": "//summary[normalize-space()='Is patient photography securely stored?']",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/touchmd"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Does TouchMD support virtual consultations?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Does TouchMD support virtual')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/touchmd"
+        },
+        {
+          "kind": "expander",
+          "words": [
+            "Is TouchMD relevant for ophthalmology practices?"
+          ],
+          "region": "main",
+          "xpath": "//summary[starts-with(normalize-space(),'Is TouchMD relevant for ophthalmology')]",
+          "stability": "OK",
+          "pages": 1,
+          "seenOn": "https://www.nextech.com/products/touchmd"
+        }
+      ],
+      "why": {
+        "rule": "unlike-others",
+        "says": "no other page read is enough like it (the closest, /products/cora, shares 99% of its layout and 19% of its headings)"
+      }
+    }
+  ],
+  "skipped": [
+    {
+      "url": "https://www.nextech.com/21st-century-cures-act",
+      "reason": "duplicate of https://nextech.com/"
+    },
+    {
+      "url": "https://www.nextech.com/resource-center?type=Case+Study",
+      "reason": "duplicate of https://www.nextech.com/resource-center"
+    },
+    {
+      "url": "https://www.nextech.com/ophthalmology/ehr-pm-software",
+      "reason": "duplicate of https://www.nextech.com/specialties/ophthalmology/ehr-software"
+    },
+    {
+      "url": "https://www.nextech.com/about",
+      "reason": "duplicate of https://www.nextech.com/company/about"
+    },
+    {
+      "url": "https://www.nextech.com/blog/get-to-know-nextech-and-our-newest-feature-updates",
+      "reason": "duplicate of https://www.nextech.com/resource-center"
+    },
+    {
+      "url": "https://www.nextech.com/thrive",
+      "reason": "duplicate of https://www.nextech.com/products/consulting"
+    },
+    {
+      "url": "https://www.nextech.com/cloud-based-ehr",
+      "reason": "duplicate of https://www.nextech.com/orthopedic/ehr-pm-software"
+    },
+    {
+      "url": "https://www.nextech.com/plastic-surgery/case-study/davinci-plastic-surgery",
+      "reason": "duplicate of https://www.nextech.com/resource-center"
+    },
+    {
+      "url": "https://www.nextech.com/dermatology/case-study/the-herschthal-practice",
+      "reason": "duplicate of https://www.nextech.com/resource-center"
+    },
+    {
+      "url": "https://www.nextech.com/careers",
+      "reason": "duplicate of https://www.nextech.com/company/careers"
+    }
+  ],
+  "consent": "#hs-eu-confirmation-button",
+  "userAgent": "Mozilla/5.0 (compatible; SuiteBuilder/1.0; +https://github.com/Ghost-in-the-Kernel-Labs/Ghost-in-the-Kernel-Labs-suite-builder-docs)",
+  "findings": [
+    {
+      "code": "SITE-33",
+      "severity": "major",
+      "title": "2 links to other sites lead nowhere: the pages are gone",
+      "where": [
+        {
+          "url": "https://imimobile.com/",
+          "says": "its name no longer resolves: the site is gone; linked from /partnerships",
+          "link": {
+            "paths": [],
+            "status": null,
+            "answer": "its name no longer resolves: the site is gone",
+            "from": [
+              "/partnerships"
+            ],
+            "more": 0,
+            "why": "broken"
+          },
+          "offSite": true
+        },
+        {
+          "url": "https://qpp.cms.gov/mips/explore-mips-value-pathways?py=2025",
+          "says": "answered 404; linked from /blog/mips-value-pathways",
+          "link": {
+            "paths": [],
+            "status": 404,
+            "answer": "answered 404",
+            "from": [
+              "/blog/mips-value-pathways"
+            ],
+            "more": 0,
+            "why": "broken"
+          },
+          "offSite": true
+        }
+      ],
+      "why": "Sites move and close: a visitor who follows one of these links meets an error page, or nothing at all, on someone else's site, and leaves thinking less of this one.",
+      "fix": "Point each link at where the page lives now, or take it out. The suite's link report asks every one again on each run, and fails when one that answered stops."
+    },
+    {
+      "code": "SITE-08",
+      "severity": "major",
+      "title": "10 form fields on 5 pages have no label",
+      "where": [
+        {
+          "url": "https://www.nextech.com/solutions/ai",
+          "says": "2 fields: `<select name=\"specialty\">`, `<select name=\"state\">`"
+        },
+        {
+          "url": "https://www.nextech.com/products/cora",
+          "says": "2 fields: `<select name=\"specialty\">`, `<select name=\"state\">`"
+        },
+        {
+          "url": "https://www.nextech.com/request-demo",
+          "says": "2 fields: `<select name=\"specialty\">`, `<select name=\"state\">`"
+        },
+        {
+          "url": "https://www.nextech.com/specialties/ophthalmology/crm-software",
+          "says": "2 fields: `<select name=\"specialty\">`, `<select name=\"state\">`"
+        },
+        {
+          "url": "https://www.nextech.com/request-info",
+          "says": "2 fields: `<select name=\"specialty\">`, `<select name=\"state\">`"
+        }
+      ],
+      "why": "A screen reader announces a field with no label as \"edit text\", so a blind visitor cannot tell what to type; a placeholder alone vanishes once typing starts. Accessibility audits fail it.",
+      "fix": "Give each field a <label for=\"its id\"> (each id used once on the page), or an aria-label."
+    },
+    {
+      "code": "SITE-21",
+      "severity": "major",
+      "title": "The site's own scripts throw 4 errors on 2 pages",
+      "where": [
+        {
+          "url": "https://www.nextech.com/aesthetically-speaking",
+          "says": "2 errors: A network error occurred. and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/blog/how-to-transition-from-paper-charting-to-ehr-in-6-steps-saving-your-practice-time-and-money",
+          "says": "2 errors: A network error occurred. and 1 more"
+        }
+      ],
+      "why": "An error nothing catches stops the script that threw it: whatever it was doing (a form's checks, a cart, tracking) is left undone. Visitors never report it; it is seen only in the browser's console.",
+      "fix": "Open the page with the browser's developer tools, read the console, and fix each error at the line it names."
+    },
+    {
+      "code": "SITE-03",
+      "severity": "minor",
+      "title": "18 of the site's own links redirect before they arrive",
+      "where": [
+        {
+          "url": "https://www.nextech.com/case-study/ophthalmology-associates-of-fort-worth/",
+          "says": "301, 301 to /case-studies/ophthalmology-associates-of-fort-worth"
+        },
+        {
+          "url": "https://www.nextech.com/case-study/short-hills-ophthalmology-group",
+          "says": "301 to /case-studies/short-hills-ophthalmology-group"
+        },
+        {
+          "url": "https://www.nextech.com/21st-century-cures-act",
+          "says": "301 to /"
+        },
+        {
+          "url": "https://www.nextech.com/medspa",
+          "says": "301 to /specialties/med-spa"
+        },
+        {
+          "url": "https://www.nextech.com/advanced-analytics",
+          "says": "301 to /solutions/advanced-analytics"
+        },
+        {
+          "url": "https://www.nextech.com/case-study/loden-vision",
+          "says": "301 to /case-studies/loden-vision"
+        },
+        {
+          "url": "https://www.nextech.com/dermatology/ehr-pm-software",
+          "says": "301 to /specialties/dermatology/ehr-software"
+        },
+        {
+          "url": "https://www.nextech.com/ophthalmology/ehr-pm-software",
+          "says": "301 to /specialties/ophthalmology/ehr-software"
+        },
+        {
+          "url": "https://www.nextech.com/plastic-surgery/ehr-pm-software",
+          "says": "301 to /specialties/plastic-surgery/ehr-software"
+        },
+        {
+          "url": "https://www.nextech.com/orthopedic/ehr-pm-software",
+          "says": "301 to /products/ehr"
+        },
+        {
+          "url": "https://www.nextech.com/about",
+          "says": "301 to /company/about"
+        },
+        {
+          "url": "https://www.nextech.com/blog/get-to-know-nextech-and-our-newest-feature-updates",
+          "says": "301 to /resource-center"
+        },
+        {
+          "url": "https://www.nextech.com/thrive",
+          "says": "301 to /products/consulting"
+        },
+        {
+          "url": "https://www.nextech.com/touchmd",
+          "says": "301 to /products/touchmd"
+        },
+        {
+          "url": "https://www.nextech.com/cloud-based-ehr",
+          "says": "301 to /products/ehr"
+        },
+        {
+          "url": "https://www.nextech.com/plastic-surgery/case-study/davinci-plastic-surgery",
+          "says": "301 to /resource-center"
+        },
+        {
+          "url": "https://www.nextech.com/dermatology/case-study/the-herschthal-practice",
+          "says": "301 to /resource-center"
+        },
+        {
+          "url": "https://www.nextech.com/careers",
+          "says": "301 to /company/careers"
+        }
+      ],
+      "why": "Every click on one of these links costs an extra round trip before the page starts loading, and search engines see one page at two addresses.",
+      "fix": "Link to each page's final address (with or without its trailing slash, as the server serves it)."
+    },
+    {
+      "code": "SITE-16",
+      "severity": "minor",
+      "title": "67 links on 37 pages point to a part of the page that is not there",
+      "where": [
+        {
+          "url": "https://www.nextech.com/blog/healthcare-cybersecurity-challenges",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/blog/how-to-get-patient-referrals",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/blog/cloud-based-ehr",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/aesthetically-speaking",
+          "says": "1 link: `<a href=\"#play\">`"
+        },
+        {
+          "url": "https://www.nextech.com/press-releases/connected-innovation-and-specialty-specific-ai-take-center-stage-at-nextech-edge-2026",
+          "says": "1 link: `<a href=\"#share\">`"
+        },
+        {
+          "url": "https://www.nextech.com/industry-news/nextech-launches-clinical-assistant-unlike-generic-bolt-on-scribes",
+          "says": "1 link: `<a href=\"#share\">`"
+        },
+        {
+          "url": "https://www.nextech.com/press-releases/nextech-reduces-healthcares-payment-reconciliation-burden-with-updated-embedded-payment-processing-platform",
+          "says": "1 link: `<a href=\"#share\">`"
+        },
+        {
+          "url": "https://www.nextech.com/industry-news/nextech-rolls-out-ai-scribe-built-for-specialty-physician-practices",
+          "says": "1 link: `<a href=\"#share\">`"
+        },
+        {
+          "url": "https://www.nextech.com/press-releases/nextech-unveils-agentic-ai-capabilities-for-patient-experience-through-new-partnerships",
+          "says": "1 link: `<a href=\"#share\">`"
+        },
+        {
+          "url": "https://www.nextech.com/industry-news/nextech-cio-ciso-shares-perspective-on-phishing-threats-in-healthcare-0",
+          "says": "1 link: `<a href=\"#share\">`"
+        },
+        {
+          "url": "https://www.nextech.com/blog/ehr-or-pm-how-having-both-can-help-your-practices-bottom-line-nextech",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/blog/mips",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/blog/mips-value-pathways",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/blog/how-to-transition-from-paper-charting-to-ehr-in-6-steps-saving-your-practice-time-and-money",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/blog/ophthalmology-abbreviations",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/blog/7-social-media-strategies-for-aesthetic-practices-and-med-spas",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/blog/iv-therapy-laws-by-state",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/blog/ehr-vs-emr",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/blog/cost-of-not-switching-plastic-surgery-software",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/blog/stop-leading-with-price-in-financing-conversations",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/blog/healthcare-financial-management",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/blog/celebrating-career-journeys-marian-llamas",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/blog/ehr-for-small-practices",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/blog/med-spa-laws-by-state",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/blog/patient-engagement-in-healthcare",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/blog/cost-and-roi-of-ehrs",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/blog/survey-50-of-physicians-havent-heard-of-macra",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/blog/fresh-perspectives-nextech-celebrates-national-intern-day",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/blog/how-to-prevent-healthcare-data-breaches",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/blog/how-to-maximize-reimbursements-at-your-practice",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/blog/how-to-address-and-prevent-pa-burnout",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/blog/how-providers-safeguard-their-revenue-cycle",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/blog/benefits-of-chatbots-in-healthcare",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/blog/ophthalmology-cpt-codes",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/blog/net-vs-gross-collection-rates",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/blog/coding-telehealth-visits",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        },
+        {
+          "url": "https://www.nextech.com/blog/what-is-pecos",
+          "says": "2 links: `<a href=\"#share\">` and 1 more"
+        }
+      ],
+      "why": "A visitor clicks and nothing happens: the link names a #part no element on the page has.",
+      "fix": "Give the part it means the id the link names, or point the link at the right one."
+    },
+    {
+      "code": "SITE-17",
+      "severity": "minor",
+      "title": "3 pages have no description for search results",
+      "where": [
+        {
+          "url": "https://www.nextech.com/author/nextech",
+          "says": "no meta description"
+        },
+        {
+          "url": "https://www.nextech.com/author/david-slazyk",
+          "says": "no meta description"
+        },
+        {
+          "url": "https://www.nextech.com/author/tom-robinette",
+          "says": "no meta description"
+        }
+      ],
+      "why": "Search results show the description under the title; without one, the search engine picks a line of the page, often the menu or a cookie notice.",
+      "fix": "Give each page a <meta name=\"description\"> of a sentence or two saying what it offers."
+    },
+    {
+      "code": "SITE-18",
+      "severity": "minor",
+      "title": "1 address goes through a chain of redirects",
+      "where": [
+        {
+          "url": "https://www.nextech.com/case-studies/ophthalmology-associates-of-fort-worth",
+          "says": "/case-study/ophthalmology-associates-of-fort-worth/ → /case-study/ophthalmology-associates-of-fort-worth → /case-studies/ophthalmology-associates-of-fort-worth (301, 301)"
+        }
+      ],
+      "why": "Each redirect is another round trip before the page starts to load, and search engines may give up on a long chain.",
+      "fix": "Redirect each old address straight to the final one, and link to the final address."
+    },
+    {
+      "code": "SITE-24",
+      "severity": "minor",
+      "title": "3 security headers no page sends",
+      "where": [
+        {
+          "url": "https://www.nextech.com/",
+          "says": "no page of the site sends Content-Security-Policy (which scripts may run)"
+        },
+        {
+          "url": "https://www.nextech.com/",
+          "says": "no page of the site sends X-Frame-Options or frame-ancestors (another site cannot frame it to trick a click)"
+        },
+        {
+          "url": "https://www.nextech.com/",
+          "says": "no page of the site sends X-Content-Type-Options: nosniff"
+        }
+      ],
+      "why": "Each header closes a door attackers use (a downgrade to http, a script slipped in, the site framed in another to trick a click). Security reviews and compliance checklists ask for them, and they cost a line of server configuration.",
+      "fix": "Add the missing headers in the web server or the CDN (one setting each), starting with Strict-Transport-Security."
+    }
+  ],
+  "siteControls": [
+    {
+      "kind": "button",
+      "words": [
+        "Specialties"
+      ],
+      "region": "header",
+      "xpath": "//div[@id='w-dropdown-toggle-0']",
+      "stability": "Strong",
+      "pages": 80,
+      "seenOn": "https://www.nextech.com/"
+    },
+    {
+      "kind": "button",
+      "words": [
+        "Solutions"
+      ],
+      "region": "header",
+      "xpath": "//div[@id='w-dropdown-toggle-1']",
+      "stability": "Strong",
+      "pages": 80,
+      "seenOn": "https://www.nextech.com/"
+    },
+    {
+      "kind": "button",
+      "words": [
+        "Products"
+      ],
+      "region": "header",
+      "xpath": "//div[@id='w-dropdown-toggle-2']",
+      "stability": "Strong",
+      "pages": 80,
+      "seenOn": "https://www.nextech.com/"
+    },
+    {
+      "kind": "button",
+      "words": [
+        "Resources"
+      ],
+      "region": "header",
+      "xpath": "//div[@id='w-dropdown-toggle-3']",
+      "stability": "Strong",
+      "pages": 80,
+      "seenOn": "https://www.nextech.com/"
+    },
+    {
+      "kind": "button",
+      "words": [
+        "Company"
+      ],
+      "region": "header",
+      "xpath": "//div[@id='w-dropdown-toggle-4']",
+      "stability": "Strong",
+      "pages": 80,
+      "seenOn": "https://www.nextech.com/"
+    },
+    {
+      "kind": "button",
+      "words": [
+        "Go to slide 1"
+      ],
+      "region": "main",
+      "xpath": "//span[@aria-label='Go to slide 1']",
+      "stability": "Strong",
+      "pages": 55,
+      "seenOn": "https://www.nextech.com/"
+    },
+    {
+      "kind": "button",
+      "words": [
+        "Go to slide 2"
+      ],
+      "region": "main",
+      "xpath": "//span[@aria-label='Go to slide 2']",
+      "stability": "Strong",
+      "pages": 56,
+      "seenOn": "https://www.nextech.com/"
+    },
+    {
+      "kind": "button",
+      "words": [
+        "Go to slide 3"
+      ],
+      "region": "main",
+      "xpath": "//span[@aria-label='Go to slide 3']",
+      "stability": "Strong",
+      "pages": 55,
+      "seenOn": "https://www.nextech.com/"
+    },
+    {
+      "kind": "button",
+      "words": [
+        "Go to slide 4"
+      ],
+      "region": "main",
+      "xpath": "//span[@aria-label='Go to slide 4']",
+      "stability": "Strong",
+      "pages": 53,
+      "seenOn": "https://www.nextech.com/"
+    },
+    {
+      "kind": "email field",
+      "words": [
+        "Work Email*",
+        "email"
+      ],
+      "region": "main",
+      "form": "a form",
+      "required": true,
+      "noValidate": true,
+      "xpath": "//input[@name='email']",
+      "stability": "Strong",
+      "pages": 43,
+      "seenOn": "https://www.nextech.com/contact"
+    }
+  ]
+}
